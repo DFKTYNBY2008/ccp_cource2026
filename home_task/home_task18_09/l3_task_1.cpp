@@ -11,6 +11,7 @@ int main()
         "January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"
     };
     std::cin >> a;
+    if 
     std::cout << months[a - 1 ]; // для 1 <= a <= 12
     
     return 0;
